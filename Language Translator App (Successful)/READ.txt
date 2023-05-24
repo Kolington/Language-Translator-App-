@@ -1,0 +1,22 @@
+LIVE DEMO SITE/CODE DOWNLOAD - https://codingnepalweb.com/demos/language-translator-javascript/
+
+GOOGLE DRIVE LINK - https://drive.google.com/file/d/1AuBKYK-6uEFWZP_4XYxisVFI-zOkHu-F/view
+
+API
+Visit https://mymemory.translated.net/doc/spec.php 
+COPY THE LINK https://api.mymemory.translated.net/get?q=Hello%20World!&langpair=en|it
+FOR 50000 CHAR A DAY - https://api.mymemory.translated.net/get?q=${text}&langpair=${translateFrom}|${translateTo}&de=your_email
+
+/* CSS Code by Oluwagbemiga Kolawole */
+
+
+/* Import Google Font - Poppins */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@400;500;600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
